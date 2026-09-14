@@ -1,4 +1,3 @@
-# que-tipo-de-trader-eres
 # ¿Qué tipo de trader eres?
 
 Interactive educational resource developed by **Candle Iron Core Academy** as part of its trading education materials.
